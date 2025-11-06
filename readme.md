@@ -27,3 +27,8 @@
 
 ```bash
 python main.py --files products1.csv products2.csv --report average-rating
+```
+
+### Тесты
+Тесты покрывают 93% кода, проверяют работу основной и функции main(), а также get_report(), 
+get_all_values_by_field(), get_complete_devices_list()
